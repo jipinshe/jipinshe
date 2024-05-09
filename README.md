@@ -1,16 +1,22 @@
-### Hi there 👋
+建议截图保存，避免造成失联。
 
-<!--
-**jipinshe/jipinshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+最新入口：https://jipinshe.cc
+备用入口：https://jipinshe.org
 
-Here are some ideas to get you started:
+永久入口-需梯子：https://jipinshe.net
+-------------------------------------------------------------------
+新地址获取方法1：
+jipinshe@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+发送任意内容至邮箱会自动回复最新地址
+-------------------------------------------------------------------
+新地址获取方法2：
+https://github.net/jipinshe
+
+打开此网页可快速查看最新地址
+-------------------------------------------------------------------
+新地址获取方法3：
+https://jpss.cc
+
+打开此网页可快速查看最新地址
+-------------------------------------------------------------------
