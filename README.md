@@ -1,4 +1,4 @@
-建议截图保存，避免造成失联。
+建议截图保存，避免造成失联
 
 最新入口：https://jipinshe.cc
 备用入口：https://jipinshe.org
