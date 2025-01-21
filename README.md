@@ -1,8 +1,8 @@
 建议截图保存，避免造成失联
 
-最新入口：https://jipinshe.cc
+最新入口：https://jipinshe01.com
 
-备用入口：https://jipinshe.org
+备用入口：https://jipinshe02.com
 
 永久入口-需梯子：https://jipinshe.net
 -------------------------------------------------------------------
